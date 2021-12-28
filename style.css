@@ -15,6 +15,12 @@ h2{
     color: white;
 }
 
+a{
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
 .GreenBack{
     background-color: mediumspringgreen;
 }
